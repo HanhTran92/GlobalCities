@@ -25,7 +25,7 @@ The graph connotes two implications. First, European airports tend to have highe
 Special credits go to Young Joon Oh with his tutorial video.
 https://www.youtube.com/watch?v=DvSJQRx9Jss&list=LLqsMN_VaDEEWWB18BrZv5vw&index=4&t=747s
 
-![Air connections between cities around the world](map001.png)
+![Air connections between cities around the world](map002.png)
 
 ### References
 
