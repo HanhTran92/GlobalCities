@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=DvSJQRx9Jss&list=LLqsMN_VaDEEWWB18BrZv5vw&index=
 
 ![Air connections between cities around the world](map001.png)
 
-***References
+### References
 
 Carta, S. and Gonzalez, M., 2013. Mapping Connectedness of Global Cities: a, ß and ? tiers.
 
