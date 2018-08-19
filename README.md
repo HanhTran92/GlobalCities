@@ -24,7 +24,7 @@ We took further step by investigating which city had the highest global connecti
 
 As discovered from the data networks, 4 out of 5 cities which ranked first in the global interconnectedness list belonged to European continent, with London possessing the highest international connectivity degree (338 flight-out links and 341 flight-in links). The remaining list respectively came Paris, Frankfurt and Moscow. Istanbul, the city straddling between Asia and Europe, ranked 5th with 229 out flights and 232 in-flights. Chicago, and Beijing appeared to rank 7th and 8th as top world interconnected cities. 
 
-As we explored further, the precursory outcome partially implies why some cities had higher connectivity than the others. (1) ideal geographical location, where the airport can easily and conveniently serve as a vital transit node that connects one city to another. (2) the presence of strong airlines,  London (British Airways), France (Air France), Frankfurt (Lufthansa), Moscow (Aeroflot) Istabul (Turkish Airline). (3) vibrant economic activities between these cities with the world that shape their frequent transportation. 
+As we explored further, the precursory outcome partially implies why some cities had higher connectivity than the others. (1) Ideal geographical location, where the airport can easily and conveniently serve as a vital transit node that connects one city to another. (2) The presence of strong airlines,  London (British Airways), France (Air France), Frankfurt (Lufthansa), Moscow (Aeroflot) Istabul (Turkish Airline). (3) Vibrant economic activities between these cities and the world that shape their frequent transportation. 
 
 
 
